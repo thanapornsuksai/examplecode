@@ -1,0 +1,16 @@
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\bin\Debug\pidapcapture.exe.config
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\bin\Debug\pidapcapture.exe
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\bin\Debug\pidapcapture.pdb
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\bin\Debug\PacketDotNet.dll
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\bin\Debug\SharpPcap.dll
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\bin\Debug\PacketDotNet.xml
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\bin\Debug\SharpPcap.xml
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\bin\Debug\SharpPcap.dll.config
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\obj\Debug\pidapcapture.Form1.resources
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\obj\Debug\pidapcapture.Properties.Resources.resources
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\obj\Debug\pidapcapture.csproj.GenerateResource.cache
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\obj\Debug\pidapcapture.csproj.CoreCompileInputs.cache
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\obj\Debug\pidapcapture.csproj.CopyComplete
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\obj\Debug\pidapcapture.exe
+c:\users\tsuksai\source\repos\pidapcapture\pidapcapture\obj\Debug\pidapcapture.pdb
+C:\Users\tsuksai\source\repos\pidapcapture\pidapcapture\obj\Debug\pidapcapture.csprojAssemblyReference.cache
